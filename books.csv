@@ -1,0 +1,57 @@
+Serial No.,Name,Author,Genre
+1,The Hobbit,J.R.R Tolkien,Fantasy
+2,The Lord of the Rings,J.R.R Tolkien,Fantasy
+3,Harry Potter and the Sorcerer's Stone,J.K Rowling,Fantasy
+4,Game of Thrones,George R.R Martin,Fantasy
+5,The Name of the Wind,Patrick Rothfuss,Fantasy
+6,"The Lion,The Witvh and the Wardrobe",C.S Lewis,Fantasy
+7,Mistborn,Brandon Sanderson,Fantasy
+8,The Last Unicorn,Peter S. Beagle,Fantasy
+9,Dune,Frank Herbert,Sci Fi
+10,Foundation,Isaac Asimov,Sci Fi
+11,Ender's Game,Orson Scott Card,Sci Fi
+12,Neuromancer,William Gibson,Sci Fi
+13,The Martian,Andy Weir,Sci Fi
+14,Fahrenheit 451,Ray Bradbury,Sci Fi
+15,Snow Crash,Neal Stephenson,Sci Fi
+16,Brave New World,Aldous Huxley,Sci Fi
+17,The Da Vinci Code,Dan Brown,Mystery/Thriller
+18,Gone Girl,Gillian Flynn,Mystery/Thriller
+19,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery/Thriller
+20,Sherlock Holmes: A Study in Scarlet,Arthur Conan Doyle,Mystery
+21,The Silent Patient,Alex Michaelides,Thriller
+22,The Hound of Baskervilles,Arthur Conan Doyle,Mystery
+23,Big Little Lies,Liane Moriarty,Mystery
+24,In the Woods,Tana French,Mystery
+25,Pride and Prejudice,Jane Austen,Romance
+26,Jane Eyre,Charlotte Bronte,Romance
+27,Me Before You,Jojo Moyes,Romance
+28,The Notebook,Nicholas Sparks,Romance
+29,Outlander,Diana Gabaldon,Romance
+30,The Fault in our Stars,John Green,Romance
+31,Eleanor & Park,Rainbow Rowell,Romance
+32,Love Story,Erich Segal,Romance
+33,To Kill a Mockingbird,Harper Lee,Classic
+34,1984,George Orwell,Classic
+35,The Great Gatsby,F. Scott Fitzgerald,Classic
+36,Moby-Dick,Herman Melville,Classic
+37,Crime and Punishment,Fyodor Dostoevsky,Classic
+38,Wuthering Heights,Emily Bronte,Classic
+39,The Catcher in the Rye,J.D. Salinger,Classic
+40,Animal farm,George Orwell,Classic
+41,Sapiens,Yuval Noah Harari,Non-Fiction
+42,Homo Deus,Yuval Noah Harari,Non-Fiction
+43,Educated,Tara Westover,Memoir
+44,Outliers,Malcolm Gladwell,Psychology
+45,Atomic Habits,James Clear,Self-Help
+46,Man's Search for meaning,Viktor Frankl,Psychology
+47,"Thinking, Fast and Slow",Daniel Kahneman,Psychology
+48,Rich Dad Poor Dad,Robert Kiyosaki,Finance
+49,The 7 Habits of Highly Effective People,Stephen Covey,Self-Help
+50,The Power of Habit,Charles Duhigg,Self-Help
+51,Born a Crime,Trevor Noah,Memoir
+52,The Intelligent Investor,Benjamin Graham,Finance/Investing
+53,The Warren Buffet Way,Robert G. Hagstrom,Finance/Investing
+54,One Up On Wall Street,Peter Lynch,Finance/Investing
+55,Blink,Malcolm Gladwell,Psychology
+56,The Tipping Point,Malcolm Gladwell,Psychology/Sociology
