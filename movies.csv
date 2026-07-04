@@ -1,0 +1,61 @@
+Serial No.,title,Movie Genre,Director,Rating ,Description,Year
+1,Die hard,Action,John McTiernan,8.2,A lone cop battles terrorists inside a skyscraper during a Christmas party,1988
+2,Terminator 2,Action,James Cameron,8.6,A reprogrammed cyborg protects humanity's future from a deadly machine,1991
+3,Mad Max,Action,George Miller,8.1,Rebels race across a wasteland to escape a ruthless tyrant,2015
+4,Mission Immpossible: Fallout,Action,Christopher McQuarrie,7.7,Ethan Hunt races to stops a global catastrophe after a mission goes wrong,2018
+5,The Matrix,Action,Lana Wachowski,8.7,A hacker discovers reality is a simulation controlled by machines,1999
+6,The Dark Knight,Action,Christopher Nolan,9.1,"Batman faces the joker, a criminal mastermind spreading Chaos across Gotham",2008
+7,Top Gun Maverick,Action,Joseph Kosinski,8.2,Maverick returns to train elite pilots for a dangerous mission,2022
+8,John Wick,Action,Chad Stahelski,7.5,A retired assassin seeks revenge after a brutal personal loss,2014
+9,Kingsman,Action,Matthew Vaughn,7.7,A street-smart recruit joins a secret spy organisation,2014
+10,Skyfall,Action,Sam Mendes,7.8,James Bond Confronts a threat fromhis agency's troubled past,2012
+11,Passengers,Romance,Moeten Tyldum,7,Two passengers awaken early on a long space voyage and form a love bond,2016
+12,Titanic,Romance,James Cameron,8,A romance blossoms abroad the ill-fated luxury linear Titanic,1997
+13,Forrest Gump,Romance,Robert Zemeckis,8.8,A simple man unknowingly witnesses & influences major historical events,1994
+14,Her,Romance,Spike Jonze,8,A lonely writer falls in love with an advanced AI operating system,2013
+15,Before Midninght,Romance,Richard Linklater,7.9,A couple reflects on love and life during a vacation in Greece,2013
+16,The Notebook,Romance,Nick Cassavetes,7.8,Two lovers fight against time and circumstances to stay together,2004
+17,Veer Zaara,Romance,Yash Chopra,7.7,A cross-border love story transcends politics and decades of sepration,2004
+18,About Time,Romance,Richard Curtis,7.8,A young man uses time travel to improve his life and relationships,2013
+19,Pride & Prejudice,Romance,Joe Wright,7.8,"Elizabeth Bennet,navigates love,class,and misunderstandings in regency England",2005
+20,The Lunchbox,Romance,Ritesh Batra,7.8,A mistaken lunch delivery sparks an unexpected frriendship through letters,2013
+21,The Exorcist,Horror,William Friedkin,8.1,A priest attempts to save a young girl possesed by a demonic force,1973
+22,The Shining,Horror,Stanley Kubrick,8.4,Isolation drives a writer towards madness in a haunted hotel,1980
+23,Get Out,Horror,Jordon Peele,7.8,A man discovers a terrifying secret while visiting his girlfriend's family,2017
+24,The Conjuring,Horror,James Wan,7.5,Paranormal investigators help a family haunted by a sinister presence,2013
+25,Hereditary,Horror,Ari Aster,7.3,A family unravels dark secrets after the death of their mysterious grandmother,2018
+26,Talk to me,Horror,Danny and Micheal Philippou,7.1,Teenagers unleash terrifying supernatural forces through a cursed object,2022
+27,Evil Dead Rise,Horror,Lee Cronin,6.5,A family fights for survival when an ancient evil possesses their mother,2023
+28,Bring Her Back,Horror,Danny and Micheal Philippou,7.1,Two siblings uncover a foster mother's dark ritual to revive her dead daughter,2025
+29,Obsession,Horror,Curry Baker,8.1,A magical wish turns a young woman's forced love into a terrifying obsession,2026
+30,IT,Horror,Andre Muschietti,7.3,A group of children confronts an ancient shape-shifting evil clown,2017
+31,Intersteller,Sci fi,Christopher Nolan,8.7,Explorers travel through space in search of humanity's new home,2014
+32,Blade Runner 2049,Sci fi,Denis Villeneuve,8,A replicant hunter uncovers secrets that could change society forever,2017
+33,Inception,Sci fi,Christopher Nolan,8.8,A skilled theif enters dreams to plant an idea in a target's mind,2010
+34,Arrival,Sci fi,Denis Villeneuve,7.9,A linguistic tries to communicate with mysterious alien visitors,2016
+35,Avatar,Sci fi,James Cameron,7.9,A marine joins an alien world and becomes torn between two civilizations,2009
+36,Edge of tomorrow,Sci fi,Doug Liman,7.9,A soldier relives the same battle repeatedly while fighting alien invaders,2014
+37,Project Hail Mary,Sci fi,Christopher Miller & Phil Lord,8.2,A lone astronaut undertakes a mission to save Earth from extinction,2026
+38,Alien,Sci fi,Ridley Scott,8.4,A spaceship crew is hunted by a deadly extraterrestrial creature,1979
+39,The Martian,Sci fi,Ridley Scott,8,A stranded astronaut uses science and ingenuity to survive on Mars,2015
+40,The Man from Earth,Sci fi,Richard Schenkman,7.9,A professor reveals an unbelievable secret about his ancient past,2007
+41,Shutter Island,Crime,Martin Scorsese,8.2,A U.S. Marshal investigates a dissaperance at a remote psychiatric hospital,2010
+42,The Monkeys,Crime,Terry Gilliam,8,A prisoner travels through time to stop a devastating pandemic,1995
+43,The Dark Knight Rises,Crime,Christopher Nolan,8.4,Batman returns from retirement to face a new powerful enemy,2012
+44,Momento,Crime,Christopher Nolan,8.4,A man with memory loss searches for his wife's killer using clues,2000
+45,The Departed,Crime,Martin Scorsese,8.5,An undercover cop and a mole play a deadly game of deception,2006
+46,The silence of the Lambs,Crime,Jonathan Demme,8.6,A trainee FBI agent seeks help from a brilliant imprisoned serial killer,1991
+47,Drishyam,Crime,Nishikant Kamat,8.2,A family man uses his intelligence and planning to protect his loved ones,2015
+48,The Usual Suspects,Crime,Bryan Singer,8.5,Criminals become entangled in a mystery involving a legendary crime lord,1995
+49,Oldboy,Crime,Park Chan-Wook,8.3,A man seeks revenge after being mysteriously imprisoned for years,2003
+50,No Country for old Men,Crime,Ethan and Joel Coen,8.2,A hunter's discovery of drug money sparks a violent pursuit,2007
+51,The Hangover,Comedy,Todd Philips,7.7,Three friends retrace their wild night tofind a missing groom,2009
+52,Horrible Bosses,Comedy,Seth Gordon,6.9,Frustrated employees plot against their unbearable bosses,2011
+53,Wedding Crashers,Comedy,David Dobkin,7,Two friends sneak into weddings to meet women and find romance,2005
+54,The Other Guys,Comedy,Adam Mckay,6.7,Two overlooked detectives get a chance to solve a major case,2010
+55,We're the Millers,Comedy,Rawson Marshall Thurber,7,A small-time dealer creates a fake family to smuggle drugs across the border,2013
+56,Mr. Bean's Holiday,Comedy,Steve Bendelack,6.4,Mr. Bean's vacation turns into a series of hilarious misadventures,2007
+57,The Interview,Comedy,Evan Goldberg & Seth Rogen,6.5,Two journalists are recruited to assasinate a foreign dictator,2014
+58,Paul,Comedy,Greg Mattola,6.9,Two comic book fans encounter a wisecracking alien on the run,2011
+59,21 Jump Street,Comedy,Christopher Miller & Phil Lord,7.2,Two young cops go undercover as high school students,2012
+60,Stuart Little,Comedy,Rob Minkoff,6,A lovable mouse is adopted by a human family and seeks acceptance,1999
